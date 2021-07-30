@@ -1,4 +1,4 @@
-# NST-for-Data-Augmentation
+# NST for Data Augmentation
 
 En la sociedad actual el uso de filtros y de técnicas que modifiquen el estilo de imágenes es muy común, es allí donde surge la necesidad de que los modelos de clasificación sean robustos a estas transformaciones. Los códigos dispuestos en este repositorio permiten replicar los resultados obtenidos al utilizar la técnica de style transfer como método de data augmentation para mejorar la capacidad de generalización en modelos de clasificación de imágenes, ganando alrededor de 2% de accuracy promedio con respecto al modelo original en una base de datos derivada de ’AnimalFaces’, que contenía imágenes alteradas en estilo con la técnica de style transfer.
 
